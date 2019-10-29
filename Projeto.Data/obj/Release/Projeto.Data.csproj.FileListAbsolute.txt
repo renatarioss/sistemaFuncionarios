@@ -1,0 +1,10 @@
+F:\Aula26\Projeto.Data\bin\Release\Projeto.Data.dll.config
+F:\Aula26\Projeto.Data\bin\Release\Projeto.Data.dll
+F:\Aula26\Projeto.Data\bin\Release\Projeto.Data.pdb
+F:\Aula26\Projeto.Data\bin\Release\EntityFramework.dll
+F:\Aula26\Projeto.Data\bin\Release\EntityFramework.SqlServer.dll
+F:\Aula26\Projeto.Data\bin\Release\EntityFramework.xml
+F:\Aula26\Projeto.Data\bin\Release\EntityFramework.SqlServer.xml
+F:\Aula26\Projeto.Data\obj\Release\Projeto.Data.csproj.CoreCompileInputs.cache
+F:\Aula26\Projeto.Data\obj\Release\Projeto.Data.dll
+F:\Aula26\Projeto.Data\obj\Release\Projeto.Data.pdb

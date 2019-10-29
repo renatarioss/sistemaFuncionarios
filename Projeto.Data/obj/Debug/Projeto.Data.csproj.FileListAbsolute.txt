@@ -1,0 +1,12 @@
+E:\Aula26\Projeto.Data\bin\Debug\Projeto.Data.dll.config
+E:\Aula26\Projeto.Data\bin\Debug\Projeto.Data.dll
+E:\Aula26\Projeto.Data\bin\Debug\Projeto.Data.pdb
+E:\Aula26\Projeto.Data\bin\Debug\EntityFramework.dll
+E:\Aula26\Projeto.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Aula26\Projeto.Data\bin\Debug\EntityFramework.xml
+E:\Aula26\Projeto.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Aula26\Projeto.Data\obj\Debug\Projeto.Data.csprojAssemblyReference.cache
+E:\Aula26\Projeto.Data\obj\Debug\Projeto.Data.csproj.CoreCompileInputs.cache
+E:\Aula26\Projeto.Data\obj\Debug\Projeto.Data.csproj.CopyComplete
+E:\Aula26\Projeto.Data\obj\Debug\Projeto.Data.dll
+E:\Aula26\Projeto.Data\obj\Debug\Projeto.Data.pdb
